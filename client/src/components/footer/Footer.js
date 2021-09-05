@@ -6,11 +6,7 @@ const Footer = () => {
     <FooterContainer>
       <FooterContent>
         <h3>&copy; Bartosz Gałuszka, 2021.</h3>
-        <p>
-          <span>Praca magisterska:</span>
-          Opracowanie aplikacji internetowej do modelowania procesu mieszania
-          kąpieli metalowej opartej o teorię reaktorów elementarnych{" "}
-        </p>
+        <p>Praca magisterska</p>
       </FooterContent>
     </FooterContainer>
   );
